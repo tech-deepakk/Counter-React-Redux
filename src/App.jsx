@@ -1,4 +1,4 @@
-import "./App.jsx";
+import "./App.css";
 import Header from "./components/Header.jsx";
 import DisplayCounter from "./components/DisplayCounter.jsx";
 import Container from "./components/Container.jsx";
